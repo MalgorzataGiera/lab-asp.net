@@ -7,7 +7,10 @@ namespace laboratorium_3___App.Controllers
     {
         static Dictionary<int, Reservation> _reservations = new Dictionary<int, Reservation>();
         static int index = 1;
-        
+        public IActionResult Index()
+        {
+            return View(_reservations);
+        }
 
         [HttpGet]
         public IActionResult Create()
