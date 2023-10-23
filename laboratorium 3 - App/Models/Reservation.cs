@@ -13,7 +13,7 @@ namespace laboratorium_3___App.Models
         public string City { get; set; }
         [Required(ErrorMessage = "Musisz podać adres")]
         public string Address { get; set; }
-
+        [Required(ErrorMessage = "Musisz podać numer pokoju")]
         public int Room { get; set; }
         [Required(ErrorMessage = "Musisz wpisać właściela")]
         public string Owner { get; set; }

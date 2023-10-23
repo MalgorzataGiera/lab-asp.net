@@ -37,7 +37,11 @@
                 <td>
                     @item.Value.Owner
                 </td>
-                
+                <td>
+                    <a class="btn btn-outline-primary" asp-controller="Reservations" asp-action="Update" asp-route-id=@item.Value.Id>Edycja</a>
+                    <a class="btn btn-outline-info" asp-controller="Reservations" asp-action="Details" asp-route-id=@item.Value.Id>Szczegóły</a>
+                    <a class="btn btn-outline-danger" asp-controller="Reservations" asp-action="Delete" asp-route-id=@item.Value.Id>Usuń</a>
+                </td>
             </tr>
         }
     </table>
