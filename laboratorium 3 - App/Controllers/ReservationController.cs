@@ -53,7 +53,17 @@ namespace laboratorium_3___App.Controllers
         {
             return View(_reservations[id]);
         }
-        
+
+        [HttpPost]
+        public IActionResult Details(Reservation model)
+        {
+            if (ModelState.IsValid)
+            {
+                _reservations[model.Id] = model;
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
 
         [HttpGet]
         public IActionResult Delete(int id)

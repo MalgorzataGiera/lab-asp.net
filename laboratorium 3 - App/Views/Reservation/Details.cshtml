@@ -1,5 +1,55 @@
-﻿@*
+﻿@model Reservation
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
 }
+<h1>Szczegóły rezerwacji</h1>
+<div>
+    <table class="table">
+        <tr>
+            <th>
+                Data
+            </th>
+            <th>
+                Miasto
+            </th>
+            <th>
+                Adres
+            </th>
+            <th>
+                Pokój
+            </th>
+            <th>
+                Właściciel
+            </th>
+            <th>
+                Cena
+            </th>
+        </tr>
+            <tr>
+                <td>
+                    @Model.Date
+                </td>
+                <td>
+                    @Model.City
+                </td>
+                <td>
+                    @Model.Address
+                </td>
+                <td>
+                    @Model.Room
+                </td>
+                <td>
+                    @Model.Owner
+                </td>
+                <td>
+                    @Model.Price
+                </td>
+                <td>
+                    <a class="btn btn-outline-primary" asp-controller="Reservation" asp-action="Index" >Powró</a>
+                </td>
+            </tr>
+        
+    </table>
+</div>
