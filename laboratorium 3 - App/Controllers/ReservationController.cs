@@ -31,6 +31,34 @@ namespace laboratorium_3___App.Controllers
             return View();
         }
 
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            return View(_reservations[id]);
+        }
+
+        [HttpPost]
+        public IActionResult Update(Reservation model)
+        {
+            if (ModelState.IsValid)
+            {
+                _reservations[model.Id] = model;
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            return View(_reservations[id]);
+        }
         
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            return View(_reservations[id]);
+        }
     }
 }
