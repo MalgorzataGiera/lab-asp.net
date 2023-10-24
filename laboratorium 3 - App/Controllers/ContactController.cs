@@ -5,18 +5,18 @@ namespace laboratorium_3___App.Controllers
 {
     public class ContactController : Controller
     {
-        //private readonly IContactService _contactService;
-        //public ContactController(IContactService contactService)
-        //{
-        //    _contactService = contactService;
-        //}
+        private readonly IContactService _contactService;
+        public ContactController(IContactService contactService)
+        {
+            _contactService = contactService;
+        }
 
-        static Dictionary<int, Contact> _contacts = new Dictionary<int, Contact>();
+        //static Dictionary<int, Contact> _contacts = new Dictionary<int, Contact>();
         
         static int index = 1;
         public IActionResult Index()
         {
-            return View(_contacts);
+            return View(_contactService.FindAll());
         }
 
         [HttpGet]
@@ -31,9 +31,9 @@ namespace laboratorium_3___App.Controllers
             if(ModelState.IsValid)
             {
                 // zapisz obiekt do bazy/kolekcji albo wykonaj operację
-                model.Id = index++;
-                _contacts[model.Id] = model;
-                //_contactService.Add(model);
+                //model.Id = index++;
+                //_contacts[model.Id] = model;
+                _contactService.Add(model);
                 return RedirectToAction("Index");
             }
             return View(model);
