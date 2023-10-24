@@ -10,10 +10,13 @@
     <table class="table">
         <tr>
             <th>
-                Imię
+                @Html.DisplayNameFor(model => model.Values.First().Name)
             </th>
             <th>
-                Email
+                @Html.DisplayNameFor(model => model.Values.First().Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Values.First().Priority)
             </th>
             <th>
                 Akcje
@@ -27,6 +30,9 @@
                 </td>
                 <td>
                     @item.Value.Email
+                </td>
+                <td>
+                    @item.Value.Priority.GetDisplayName()
                 </td>
                 <td>
                     <a class="btn btn-outline-primary" asp-controller="Contact" asp-action="Update" asp-route-id=@item.Value.Id>Edycja</a>
