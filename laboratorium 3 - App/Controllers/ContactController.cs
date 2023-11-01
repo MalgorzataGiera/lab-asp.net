@@ -11,12 +11,8 @@ namespace laboratorium_3___App.Controllers
             _contactService = contactService;
         }
 
-        //static Dictionary<int, Contact> _contacts = new Dictionary<int, Contact>();
-        
-        //static int index = 1;
         public IActionResult Index()
         {
-            //return View(_contactService.Values.ToList());
             return View(_contactService.FindAll());
         }
 
@@ -31,37 +27,34 @@ namespace laboratorium_3___App.Controllers
         {
             if(ModelState.IsValid)
             {
-                // zapisz obiekt do bazy/kolekcji albo wykonaj operację
-                //model.Id = index++;
-                //_contacts[model.Id] = model;
                 _contactService.Add(model);
                 return RedirectToAction("Index");
             }
             return View(model);
         }
 
-        //[HttpGet]
-        //public IActionResult Update(int id) 
-        //{
-        //    return View(_contacts[id]);
-        //}
+        [HttpGet]
+        public IActionResult Update(int id) 
+        {
+            return View(_contactService.FindById(id));
+        }
 
-        //[HttpPost]
-        //public IActionResult Update(Contact model)
-        //{
-        //    if(ModelState.IsValid)
-        //    {
-        //        _contacts[model.Id] = model;
-        //        return RedirectToAction("Index");
-        //    }
-        //    return View();
-        //}
+        [HttpPost]
+        public IActionResult Update(Contact model)
+        {
+            if(ModelState.IsValid)
+            {
+                _contactService.Update(model);
+                return RedirectToAction("Index");
+            }
+            return View(_contactService.FindById(model.Id));
+        }
 
-        //[HttpGet]
-        //public IActionResult Details(int id)
-        //{
-        //    return View(_contacts[id]);
-        //}
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            return View(_contactService.FindById(id));
+        }
 
         //[HttpGet]
         //public IActionResult Delete(int id)
