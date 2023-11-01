@@ -13,9 +13,10 @@ namespace laboratorium_3___App.Controllers
 
         //static Dictionary<int, Contact> _contacts = new Dictionary<int, Contact>();
         
-        static int index = 1;
+        //static int index = 1;
         public IActionResult Index()
         {
+            //return View(_contactService.Values.ToList());
             return View(_contactService.FindAll());
         }
 

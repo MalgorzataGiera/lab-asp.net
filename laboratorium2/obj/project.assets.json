@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "D:\\Users\\malgorzata.giera\\.nuget\\packages\\": {}
+    "C:\\Users\\gosia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\malgorzata.giera\\Desktop\\lab\\laboratorium2\\laboratorium2.csproj",
+      "projectUniqueName": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium2\\laboratorium2.csproj",
       "projectName": "laboratorium2",
-      "projectPath": "D:\\Users\\malgorzata.giera\\Desktop\\lab\\laboratorium2\\laboratorium2.csproj",
-      "packagesPath": "D:\\Users\\malgorzata.giera\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\malgorzata.giera\\Desktop\\lab\\laboratorium2\\obj\\",
+      "projectPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium2\\laboratorium2.csproj",
+      "packagesPath": "C:\\Users\\gosia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\Users\\malgorzata.giera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gosia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

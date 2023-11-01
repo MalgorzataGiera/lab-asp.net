@@ -91,3 +91,34 @@ D:\Users\malgorzata.giera\Desktop\lab\laboratorium 3 - App\obj\Debug\net6.0\scop
 D:\Users\malgorzata.giera\Desktop\lab\laboratorium 3 - App\obj\Debug\net6.0\scopedcss\projectbundle\laboratorium 3 - App.bundle.scp.css
 D:\Users\malgorzata.giera\Desktop\lab\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.genruntimeconfig.cache
 D:\Users\malgorzata.giera\Desktop\lab\laboratorium 3 - App\obj\Debug\net6.0\ref\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\appsettings.json
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.staticwebassets.runtime.json
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.exe
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.deps.json
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.runtimeconfig.json
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.pdb
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.csproj.AssemblyReference.cache
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.AssemblyInfoInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.AssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.csproj.CoreCompileInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.RazorAssemblyInfo.cache
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.RazorAssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets\msbuild.laboratorium 3 - App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets\msbuild.build.laboratorium 3 - App.props
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.laboratorium 3 - App.props
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.laboratorium 3 - App.props
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\scopedcss\bundle\laboratorium 3 - App.styles.css
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\scopedcss\projectbundle\laboratorium 3 - App.bundle.scp.css
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\refint\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.pdb
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.genruntimeconfig.cache
+C:\Users\gosia\Desktop\Nowy folder (4)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\ref\laboratorium 3 - App.dll
