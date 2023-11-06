@@ -25,7 +25,7 @@ namespace laboratorium_3___App.Models
 
         public Contact? FindById(int id)
         {
-            return _items[id + 1];
+            return _items[id];
         }
 
         public void Update(Contact item)

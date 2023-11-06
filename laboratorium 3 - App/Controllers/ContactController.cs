@@ -53,14 +53,21 @@ namespace laboratorium_3___App.Controllers
         [HttpGet]
         public IActionResult Details(int id)
         {
+            return View(_contactService.FindById(id + 1));
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
             return View(_contactService.FindById(id));
         }
 
-        //[HttpGet]
-        //public IActionResult Delete(int id)
-        //{
-        //    return View(_contacts[id]);
-        //}
+        [HttpPost]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            _contactService.Delete(id);
+            return RedirectToAction("Index");
+        }
     }
 
     
