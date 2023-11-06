@@ -1,6 +1,6 @@
 ﻿namespace laboratorium_3___App.Models
 {
-    public class MemoryReservationService
+    public class MemoryReservationService : IReservationService
     {
         private Dictionary<int, Reservation> _items = new Dictionary<int, Reservation>();
         public int Add(Reservation item)

@@ -1,4 +1,4 @@
-﻿@model Dictionary<int, Reservation>
+﻿@model List<Reservation>
 @*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
@@ -26,21 +26,21 @@
         {
             <tr>
                 <td>
-                    @item.Value.Date
+                    @item.Date
                 </td>
                 <td>
-                    @item.Value.City
+                    @item.City
                 </td>
                 <td>
-                    @item.Value.Room
+                    @item.Room
                 </td>
                 <td>
-                    @item.Value.Owner
+                    @item.Owner
                 </td>
                 <td>
-                    <a class="btn btn-outline-primary" asp-controller="Reservation" asp-action="Update" asp-route-id=@item.Value.Id>Edycja</a>
-                    <a class="btn btn-outline-info" asp-controller="Reservation" asp-action="Details" asp-route-id=@item.Value.Id>Szczegóły</a>
-                    <a class="btn btn-outline-danger" asp-controller="Reservation" asp-action="Delete" asp-route-id=@item.Value.Id>Usuń</a>
+                    <a class="btn btn-outline-primary" asp-controller="Reservation" asp-action="Update" asp-route-id=@item.Id>Edycja</a>
+                    <a class="btn btn-outline-info" asp-controller="Reservation" asp-action="Details" asp-route-id=@item.Id>Szczegóły</a>
+                    <a class="btn btn-outline-danger" asp-controller="Reservation" asp-action="Delete" asp-route-id=@item.Id>Usuń</a>
                 </td>
             </tr>
         }

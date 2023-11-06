@@ -2,10 +2,10 @@
 {
     public interface IReservationService
     {
-        int Add(Contact book);
+        int Add(Reservation book);
         void Delete(int id);
-        void Update(Contact book);
-        List<Contact> FindAll();
-        Contact? FindById(int id);
+        void Update(Reservation book);
+        List<Reservation> FindAll();
+        Reservation? FindById(int id);
     }
 }

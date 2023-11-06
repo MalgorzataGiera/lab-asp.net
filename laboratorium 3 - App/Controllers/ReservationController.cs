@@ -5,11 +5,16 @@ namespace laboratorium_3___App.Controllers
 {
     public class ReservationController : Controller
     {
-        static Dictionary<int, Reservation> _reservations = new Dictionary<int, Reservation>();
-        static int index = 1;
+        private readonly IReservationService _reservations;
+
+        public ReservationController(IReservationService reservations)
+        {
+            _reservations = reservations;
+        }
+
         public IActionResult Index()
         {
-            return View(_reservations);
+            return View(_reservations.FindAll());
         }
 
         [HttpGet]
@@ -24,17 +29,16 @@ namespace laboratorium_3___App.Controllers
             if (ModelState.IsValid)
             {
                 // zapisz obiekt do bazy/kolekcji albo wykonaj operację
-                model.Id = index++;
-                _reservations[model.Id] = model;
+                _reservations.Add(model);
                 return RedirectToAction("Index");
             }
-            return View();
+            return View(model);
         }
 
         [HttpGet]
         public IActionResult Update(int id)
         {
-            return View(_reservations[id]);
+            return View(_reservations.FindById(id));
         }
 
         [HttpPost]
@@ -42,33 +46,29 @@ namespace laboratorium_3___App.Controllers
         {
             if (ModelState.IsValid)
             {
-                _reservations[model.Id] = model;
+                _reservations.Update(model);               
                 return RedirectToAction("Index");
             }
-            return View();
+            return View(_reservations.FindById(model.Id));
         }
 
         [HttpGet]
         public IActionResult Details(int id)
         {
-            return View(_reservations[id]);
-        }
-
-        [HttpPost]
-        public IActionResult Details(Reservation model)
-        {
-            if (ModelState.IsValid)
-            {
-                _reservations[model.Id] = model;
-                return RedirectToAction("Index");
-            }
-            return View();
+            return View(_reservations.FindById(id));
         }
 
         [HttpGet]
         public IActionResult Delete(int id)
         {
-            return View(_reservations[id]);
+            return View(_reservations.FindById(id));
+        }
+
+        [HttpPost]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            _reservations.Delete(id);
+            return RedirectToAction("Index");
         }
     }
 }

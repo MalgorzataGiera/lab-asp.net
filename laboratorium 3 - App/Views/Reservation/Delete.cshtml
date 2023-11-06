@@ -4,9 +4,9 @@
 *@
 @{
 }
-<form asp-action="Delete" method="post">
+<form asp-action="DeleteConfirmed" method="post">
     <input asp-for="Id" />
     <p>czy na pewno usunąć?</p>
     <button type="submit">tak</button>
-    <a asp-controller="Contact" asp-action="index">nie</a>
+    <a asp-controller="Reservation" asp-action="index">nie</a>
 </form>
