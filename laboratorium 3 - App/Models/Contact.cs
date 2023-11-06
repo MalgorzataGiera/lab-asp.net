@@ -22,6 +22,9 @@ namespace laboratorium_3___App.Models
         public string Phone { get; set; }
         [Display(Name = "Data urodzenia")]
         public DateTime Birth { get; set; }
+
+        [HiddenInput]
+        public DateTime Created { get; set; }
     }
 
 }
