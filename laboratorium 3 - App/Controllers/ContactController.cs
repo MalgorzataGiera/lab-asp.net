@@ -68,6 +68,8 @@ namespace laboratorium_3___App.Controllers
             _contactService.Delete(id);
             return RedirectToAction("Index");
         }
+
+
     }
 
     
