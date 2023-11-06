@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium 3 - App\\laboratorium 3 - App.csproj": {}
+    "C:\\Users\\gosia\\Desktop\\Nowy folder (3)\\lab-asp.net\\laboratorium 3 - App\\laboratorium 3 - App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium 3 - App\\laboratorium 3 - App.csproj": {
+    "C:\\Users\\gosia\\Desktop\\Nowy folder (3)\\lab-asp.net\\laboratorium 3 - App\\laboratorium 3 - App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium 3 - App\\laboratorium 3 - App.csproj",
+        "projectUniqueName": "C:\\Users\\gosia\\Desktop\\Nowy folder (3)\\lab-asp.net\\laboratorium 3 - App\\laboratorium 3 - App.csproj",
         "projectName": "laboratorium 3 - App",
-        "projectPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium 3 - App\\laboratorium 3 - App.csproj",
+        "projectPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (3)\\lab-asp.net\\laboratorium 3 - App\\laboratorium 3 - App.csproj",
         "packagesPath": "C:\\Users\\gosia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium 3 - App\\obj\\",
+        "outputPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (3)\\lab-asp.net\\laboratorium 3 - App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gosia\\AppData\\Roaming\\NuGet\\NuGet.Config",

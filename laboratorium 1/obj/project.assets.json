@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium 1\\laboratorium 1.csproj",
+      "projectUniqueName": "C:\\Users\\gosia\\Desktop\\Nowy folder (3)\\lab-asp.net\\laboratorium 1\\laboratorium 1.csproj",
       "projectName": "laboratorium 1",
-      "projectPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium 1\\laboratorium 1.csproj",
+      "projectPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (3)\\lab-asp.net\\laboratorium 1\\laboratorium 1.csproj",
       "packagesPath": "C:\\Users\\gosia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (4)\\lab-asp.net\\laboratorium 1\\obj\\",
+      "outputPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (3)\\lab-asp.net\\laboratorium 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gosia\\AppData\\Roaming\\NuGet\\NuGet.Config",
