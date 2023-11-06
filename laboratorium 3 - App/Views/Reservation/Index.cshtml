@@ -10,16 +10,16 @@
     <table class="table">
         <tr>
             <th>
-                Data
+                @Html.DisplayNameFor(model => model[0].Date)
             </th>
             <th>
-                Miasto
+                @Html.DisplayNameFor(model => model[0].City)
             </th>
             <th>
-                Pokój
+                @Html.DisplayNameFor(model => model[0].Room)
             </th>
             <th>
-                Właściciel
+                @Html.DisplayNameFor(model => model[0].Owner)
             </th>
         </tr>
         @foreach (var item in @Model)
