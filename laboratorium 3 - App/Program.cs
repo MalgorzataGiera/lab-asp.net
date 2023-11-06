@@ -12,6 +12,8 @@ namespace laboratorium_3___App
             builder.Services.AddControllersWithViews();
             builder.Services.AddSingleton<IContactService, MemoryContactService>();
 
+            builder.Services.AddSingleton<IDateTimeProvider, CurrentDateTimeProvider>();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
