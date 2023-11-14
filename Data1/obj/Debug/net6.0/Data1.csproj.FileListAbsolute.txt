@@ -1,0 +1,14 @@
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\bin\Debug\net6.0\Data1.deps.json
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\bin\Debug\net6.0\Data1.runtimeconfig.json
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\bin\Debug\net6.0\Data1.dll
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\bin\Debug\net6.0\Data1.pdb
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.csproj.AssemblyReference.cache
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.AssemblyInfoInputs.cache
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.AssemblyInfo.cs
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.csproj.CoreCompileInputs.cache
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.dll
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\refint\Data1.dll
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.pdb
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.genruntimeconfig.cache
+D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\ref\Data1.dll

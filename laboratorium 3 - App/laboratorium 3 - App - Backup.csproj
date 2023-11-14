@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>laboratorium_3___App</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <ProjectReference Include="..\Data1\Data1.csproj" />
+	  <ProjectReference Include="..\EFData1\EFData1.csproj" />
+  </ItemGroup>
+
+</Project>
