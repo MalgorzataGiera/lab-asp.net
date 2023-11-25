@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\malgorzata.giera\\Desktop\\lab\\lab-asp.net\\Data1\\Data1.csproj": {}
+    "C:\\Users\\gosia\\Desktop\\Nowy folder (7)\\lab-asp.net\\Data1\\Data1.csproj": {}
   },
   "projects": {
-    "D:\\Users\\malgorzata.giera\\Desktop\\lab\\lab-asp.net\\Data1\\Data1.csproj": {
+    "C:\\Users\\gosia\\Desktop\\Nowy folder (7)\\lab-asp.net\\Data1\\Data1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\malgorzata.giera\\Desktop\\lab\\lab-asp.net\\Data1\\Data1.csproj",
+        "projectUniqueName": "C:\\Users\\gosia\\Desktop\\Nowy folder (7)\\lab-asp.net\\Data1\\Data1.csproj",
         "projectName": "Data1",
-        "projectPath": "D:\\Users\\malgorzata.giera\\Desktop\\lab\\lab-asp.net\\Data1\\Data1.csproj",
-        "packagesPath": "D:\\Users\\malgorzata.giera\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\malgorzata.giera\\Desktop\\lab\\lab-asp.net\\Data1\\obj\\",
+        "projectPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (7)\\lab-asp.net\\Data1\\Data1.csproj",
+        "packagesPath": "C:\\Users\\gosia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gosia\\Desktop\\Nowy folder (7)\\lab-asp.net\\Data1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\malgorzata.giera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gosia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,17 +42,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.25, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.25, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.25, )"
             }
           },
           "imports": [
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

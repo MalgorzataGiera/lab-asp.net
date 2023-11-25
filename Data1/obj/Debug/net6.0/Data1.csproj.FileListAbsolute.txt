@@ -12,3 +12,17 @@ D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\refint\
 D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.pdb
 D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\Data1.genruntimeconfig.cache
 D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\Data1\obj\Debug\net6.0\ref\Data1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\bin\Debug\net6.0\Data1.deps.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\bin\Debug\net6.0\Data1.runtimeconfig.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\bin\Debug\net6.0\Data1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\bin\Debug\net6.0\Data1.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\Data1.csproj.AssemblyReference.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\Data1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\Data1.AssemblyInfoInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\Data1.AssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\Data1.csproj.CoreCompileInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\Data1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\refint\Data1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\Data1.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\Data1.genruntimeconfig.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\Data1\obj\Debug\net6.0\ref\Data1.dll

@@ -10,6 +10,7 @@ namespace Data1
 {
     public class AppDbContext : DbContext
     {
+        public DbSet<ContactEntity> Contacts { get; set; }
         private string DbPath { get; set; }
         public AppDbContext()
         {
@@ -18,7 +19,6 @@ namespace Data1
             DbPath = System.IO.Path.Join(path, "contacts.db");
         }
 
-        public DbSet<ContactEntity> Contacts { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -231,3 +231,71 @@ D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\laboratorium 3 - App\obj\Debug
 D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.pdb
 D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.genruntimeconfig.cache
 D:\Users\malgorzata.giera\Desktop\lab\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\ref\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\appsettings.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.staticwebassets.runtime.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.exe
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.deps.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.runtimeconfig.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\laboratorium 3 - App.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Data1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Data1.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.csproj.AssemblyReference.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.AssemblyInfoInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.AssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.csproj.CoreCompileInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.RazorAssemblyInfo.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.RazorAssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets\msbuild.laboratorium 3 - App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets\msbuild.build.laboratorium 3 - App.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.laboratorium 3 - App.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.laboratorium 3 - App.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\scopedcss\bundle\laboratorium 3 - App.styles.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\scopedcss\projectbundle\laboratorium 3 - App.bundle.scp.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.csproj.CopyComplete
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\refint\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.genruntimeconfig.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\ref\laboratorium 3 - App.dll
