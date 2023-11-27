@@ -299,3 +299,5 @@ C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debu
 C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.pdb
 C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\laboratorium 3 - App.genruntimeconfig.cache
 C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\obj\Debug\net6.0\ref\laboratorium 3 - App.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 3 - App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

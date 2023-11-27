@@ -29,3 +29,34 @@ D:\Users\malgorzata.giera\source\repos\laboratorium ASP.NET\laboratorium 1\obj\D
 D:\Users\malgorzata.giera\source\repos\laboratorium ASP.NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.pdb
 D:\Users\malgorzata.giera\source\repos\laboratorium ASP.NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.genruntimeconfig.cache
 D:\Users\malgorzata.giera\source\repos\laboratorium ASP.NET\laboratorium 1\obj\Debug\net6.0\ref\laboratorium 1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\bin\Debug\net6.0\appsettings.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\bin\Debug\net6.0\laboratorium 1.staticwebassets.runtime.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\bin\Debug\net6.0\laboratorium 1.exe
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\bin\Debug\net6.0\laboratorium 1.deps.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\bin\Debug\net6.0\laboratorium 1.runtimeconfig.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\bin\Debug\net6.0\laboratorium 1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\bin\Debug\net6.0\laboratorium 1.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.csproj.AssemblyReference.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.AssemblyInfoInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.AssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.csproj.CoreCompileInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.RazorAssemblyInfo.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.RazorAssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\staticwebassets\msbuild.laboratorium 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\staticwebassets\msbuild.build.laboratorium 1.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.laboratorium 1.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.laboratorium 1.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\scopedcss\bundle\laboratorium 1.styles.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\scopedcss\projectbundle\laboratorium 1.bundle.scp.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\refint\laboratorium 1.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\laboratorium 1.genruntimeconfig.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium 1\obj\Debug\net6.0\ref\laboratorium 1.dll

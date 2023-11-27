@@ -36,6 +36,7 @@ namespace laboratorium_3___App.Models
             return _context.Contacts.Select(e => ContactMapper.FromEntity(e)).ToList();
         }
 
+
         public Contact? FindById(int id)
         {
             ContactEntity? find = _context.Contacts.Find(id);
@@ -47,6 +48,12 @@ namespace laboratorium_3___App.Models
             ContactEntity entity = ContactMapper.ToEntity(contact);
             _context.Update(entity);
             _context.SaveChanges();
+        }
+
+
+        public List<OrganizationEntity> FindAllOrganizationsForVieModel()
+        {
+            return _context.Organizations.ToList();
         }
     }
 }

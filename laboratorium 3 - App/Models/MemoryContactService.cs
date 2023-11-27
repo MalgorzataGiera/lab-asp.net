@@ -1,4 +1,7 @@
-﻿using System.Reflection;
+﻿using Data1;
+using Data1.Entities;
+using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace laboratorium_3___App.Models
 {
@@ -6,6 +9,8 @@ namespace laboratorium_3___App.Models
     {
         private Dictionary<int, Contact> _items = new Dictionary<int, Contact>();
         private IDateTimeProvider _timeProvider;
+
+        private readonly AppDbContext _context; //??????
 
         public MemoryContactService(IDateTimeProvider timeProvider)
         {
@@ -41,5 +46,9 @@ namespace laboratorium_3___App.Models
             _items[item.Id] = item;
         }
 
+        public List<OrganizationEntity> FindAllOrganizationsForVieModel()
+        {
+            return _context.Organizations.ToList();
+        }
     }
 }

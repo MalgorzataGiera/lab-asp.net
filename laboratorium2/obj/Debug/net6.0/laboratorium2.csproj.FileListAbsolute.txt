@@ -29,3 +29,34 @@ D:\Users\malgorzata.giera\source\repos\laboratorium ASP.NET\laboratorium2\obj\De
 D:\Users\malgorzata.giera\source\repos\laboratorium ASP.NET\laboratorium2\obj\Debug\net6.0\laboratorium2.pdb
 D:\Users\malgorzata.giera\source\repos\laboratorium ASP.NET\laboratorium2\obj\Debug\net6.0\laboratorium2.genruntimeconfig.cache
 D:\Users\malgorzata.giera\source\repos\laboratorium ASP.NET\laboratorium2\obj\Debug\net6.0\ref\laboratorium2.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\bin\Debug\net6.0\appsettings.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\bin\Debug\net6.0\laboratorium2.staticwebassets.runtime.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\bin\Debug\net6.0\laboratorium2.exe
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\bin\Debug\net6.0\laboratorium2.deps.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\bin\Debug\net6.0\laboratorium2.runtimeconfig.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\bin\Debug\net6.0\laboratorium2.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\bin\Debug\net6.0\laboratorium2.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.csproj.AssemblyReference.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.AssemblyInfoInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.AssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.csproj.CoreCompileInputs.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.RazorAssemblyInfo.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.RazorAssemblyInfo.cs
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\staticwebassets\msbuild.laboratorium2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\staticwebassets\msbuild.build.laboratorium2.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.laboratorium2.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.laboratorium2.props
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\scopedcss\bundle\laboratorium2.styles.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\scopedcss\projectbundle\laboratorium2.bundle.scp.css
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\refint\laboratorium2.dll
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.pdb
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\laboratorium2.genruntimeconfig.cache
+C:\Users\gosia\Desktop\Nowy folder (7)\lab-asp.net\laboratorium2\obj\Debug\net6.0\ref\laboratorium2.dll
