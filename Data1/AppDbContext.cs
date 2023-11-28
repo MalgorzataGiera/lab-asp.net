@@ -1,4 +1,6 @@
 ﻿using Data1.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Data1
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<IdentityUser>
     {
         public DbSet<ContactEntity> Contacts { get; set; }
         public DbSet<OrganizationEntity> Organizations { get; set; }
@@ -28,6 +30,83 @@ namespace Data1
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
+            string ADMIN_ID = Guid.NewGuid().ToString();
+            string ROLE_ID = Guid.NewGuid().ToString();
+
+            // dodanie roli administratora
+            modelBuilder.Entity<IdentityRole>().HasData(new IdentityRole
+            {
+                Name = "admin",
+                NormalizedName = "ADMIN",
+                Id = ROLE_ID,
+                ConcurrencyStamp = ROLE_ID
+            });
+
+            // utworzenie administratora jako użytkownika
+            var admin = new IdentityUser
+            {
+                Id = ADMIN_ID,
+                Email = "adam@wsei.edu.pl",
+                EmailConfirmed = true,
+                UserName = "adam",
+                NormalizedUserName = "ADMIN"
+            };
+
+            // haszowanie hasła
+            PasswordHasher<IdentityUser> ph = new PasswordHasher<IdentityUser>();
+            admin.PasswordHash = ph.HashPassword(admin, "1234abcd!@#$ABCD");
+
+            // zapisanie użytkownika
+            modelBuilder.Entity<IdentityUser>().HasData(admin);
+
+            // przypisanie roli administratora użytkownikowi
+            modelBuilder.Entity<IdentityUserRole<string>>()
+            .HasData(new IdentityUserRole<string>
+            {
+                RoleId = ROLE_ID,
+                UserId = ADMIN_ID
+            });
+
+
+            string USER_ID = Guid.NewGuid().ToString();
+            string ROLE_IDU = Guid.NewGuid().ToString();
+
+            //dodanie roli uzytkownika
+            modelBuilder.Entity<IdentityRole>().HasData(new IdentityRole
+            {
+                Name = "user",
+                NormalizedName = "USER",
+                Id = ROLE_IDU,
+                ConcurrencyStamp = ROLE_IDU
+            });
+            
+            //utowrzenie uzytkownika
+            var user = new IdentityUser
+            {
+                Id = USER_ID,
+                Email = "user1@wsei.edu.pl",
+                EmailConfirmed = true,
+                UserName = "user1",
+                NormalizedUserName = "USER"
+            };
+
+            // haszowanie hasła
+            PasswordHasher<IdentityUser> uph = new PasswordHasher<IdentityUser>();
+            admin.PasswordHash = uph.HashPassword(user, "1234abcd!@#$ABCD");
+
+            // zapisanie użytkownika
+            modelBuilder.Entity<IdentityUser>().HasData(user);
+
+            // przypisanie roli uzytkownika użytkownikowi
+            modelBuilder.Entity<IdentityUserRole<string>>()
+            .HasData(new IdentityUserRole<string>
+            {
+                RoleId = ROLE_IDU,
+                UserId = USER_ID
+            });
+
             modelBuilder.Entity<ContactEntity>()
                 .HasOne(c => c.Organization)
                 .WithMany(o => o.Contacts)
@@ -47,7 +126,7 @@ namespace Data1
                         Name = "Firma",
                         Description = "2498534"
                     }
-                ); 
+                );
 
             modelBuilder.Entity<OrganizationEntity>()
                 .OwnsOne(o => o.Adress)
