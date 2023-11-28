@@ -1,5 +1,6 @@
 ﻿using Data1.Entities;
 
+
 namespace laboratorium_3___App.Models
 {
     public interface IContactService
