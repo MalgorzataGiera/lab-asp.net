@@ -1,12 +1,15 @@
 ﻿using laboratorium_3___App.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using System.Data;
+using System.Drawing;
 
 namespace laboratorium_3___App.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class ContactController : Controller
     {
         
@@ -20,6 +23,11 @@ namespace laboratorium_3___App.Controllers
         public IActionResult Index()
         {
             return View(_contactService.FindAll());
+        }
+
+        public IActionResult PagedIndex(int? page = 1, int? size = 10)
+        {
+         
         }
 
         [HttpGet]
@@ -37,6 +45,22 @@ namespace laboratorium_3___App.Controllers
         public IActionResult Create(Contact model) 
         {
             if(ModelState.IsValid)
+            {
+                _contactService.Add(model);
+                return RedirectToAction("Index");
+            }
+            return View(model);
+        }
+
+        public IActionResult CreateApi()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CreateApi(Contact model)
+        {
+            if (ModelState.IsValid)
             {
                 _contactService.Add(model);
                 return RedirectToAction("Index");
