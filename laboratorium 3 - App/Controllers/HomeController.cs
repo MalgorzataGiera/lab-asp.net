@@ -1,4 +1,5 @@
-﻿using laboratorium_3___App.Models;
+﻿using labolatorium_3___App.Models;
+using laboratorium_3___App.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -15,6 +16,7 @@ namespace laboratorium_3___App.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.LastVisit = HttpContext.Items[LastVisitCookie.LastVisit];
             return View();
         }
 

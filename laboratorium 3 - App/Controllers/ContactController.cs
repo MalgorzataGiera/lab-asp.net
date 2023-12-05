@@ -27,7 +27,7 @@ namespace laboratorium_3___App.Controllers
 
         public IActionResult PagedIndex(int? page = 1, int? size = 10)
         {
-         
+            throw new NotImplementedException();
         }
 
         [HttpGet]
@@ -88,7 +88,10 @@ namespace laboratorium_3___App.Controllers
         [HttpGet]
         public IActionResult Details(int id)
         {
-            return View(_contactService.FindById(id + 1));
+            var model = _contactService.FindById(id); /// id + 1
+            if (model is null)
+                return NotFound();
+            return View(model);
         }
 
         [HttpGet]

@@ -2,6 +2,7 @@ using Data1;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using laboratorium_3___App.Models;
+using labolatorium_3___App.Models;
 
 namespace laboratorium_3___App
 {
@@ -37,6 +38,7 @@ namespace laboratorium_3___App
                 app.UseStaticFiles();
 
                 app.UseRouting();
+            app.UseMiddleware<LastVisitCookie>(); 
                 app.UseAuthentication(); ;
                 app.UseAuthorization();
                 app.UseSession();

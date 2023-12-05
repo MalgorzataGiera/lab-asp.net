@@ -21,8 +21,9 @@ namespace laboratorium_3___App.Models
         {
             int id = _items.Keys.Count != 0 ? _items.Keys.Max() : 0;
             item.Id = id + 1;
-            item.Created = _timeProvider.GetDateTime();
             _items.Add(item.Id, item);
+            item.Created = _timeProvider.GetDateTime();
+            
             return item.Id;
         }
 
@@ -38,7 +39,9 @@ namespace laboratorium_3___App.Models
 
         public Contact? FindById(int id)
         {
-            return _items[id];
+            if(_items.ContainsKey(id))
+                return _items[id];
+            return null;
         }
 
         public void Update(Contact item)
